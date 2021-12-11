@@ -2,7 +2,6 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
-- [Viswajeet Ray] (https://github.com/rayviswajeet)
 - [Antro Safin] (https://github.com/AntroSafin)
 - [Rojan Sapkota] (https://github.com/RojanGamingYT)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
